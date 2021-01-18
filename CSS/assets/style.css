@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    }
+
+form{
+    border-style: solid;
+    background-color:darkgrey;
+    width: 320px;
+    height: 480px;
+    font-style:oblique;
+}
+
+input{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-style: groove ;
+    color: blue;
+    height: 20px;
+}
+
+.lbl{
+    color: lightblue;
+    margin-top: 10px;
+}
+
+.pswinp{
+    color: green;
+}
+
+button{
+    background-color: lightblue; 
+    color:grey;
+    width: 250px;
+    height: 30px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+button:hover{
+    color: black;
+    cursor: pointer;
+}
